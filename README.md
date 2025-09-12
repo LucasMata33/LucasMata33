@@ -1,8 +1,10 @@
 ## 👋 Olá, eu sou o Lucas Galdino da Mata
 
 🎯 Sobre mim
-Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá
-Nos últimos anos me dediquei à área de tecnologia, desenvolvendo projetos com Python.
+
+Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
+
+Nos últimos anos me dediquei à área de tecnologia, desenvolvendo projetos com Python e estudando banco de dados.
 
 💻 Habilidades Técnicas
 

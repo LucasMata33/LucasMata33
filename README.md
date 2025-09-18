@@ -37,7 +37,7 @@ Tenho experiência com **Python, SQL Server, HTML, CSS, JavaScript, Power BI e E
 <details>
 <summary>🚀 Projetos de TI e Portfólio</summary>
 
-### 🔹 [Lucas CarParts Marketplace](https://github.com/LucasMata33/LucasCarPartsMarketplace)
+### 🔹 [Lucas CarParts Marketplace](https://github.com/LucasMata33/Lucas_CarParts_Marketplace.git)
 **Tecnologias:** Python, Streamlit, Pandas, CSS, HTML  
 
 Marketplace interativo de peças automotivas com filtros por marca, modelo, ano e motor, integração com imagens e preços simulados.  
